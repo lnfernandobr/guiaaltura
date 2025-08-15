@@ -220,12 +220,14 @@ export default function HeightEbookLanding() {
               </div>
             </div>
 
-            <button className="w-full bg-gradient-to-r from-emerald-500 via-blue-500 to-purple-500 hover:from-emerald-600 hover:via-blue-600 hover:to-purple-600 text-white font-black py-6 px-8 rounded-2xl text-2xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 mb-6 relative overflow-hidden group">
-              <div className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-              <span className="relative flex items-center justify-center gap-3">
-                🔥 QUERO CRESCER AGORA! <ArrowRight className="w-6 h-6" />
-              </span>
-            </button>
+            <a href="https://pay.kiwify.com.br/vtuNXgS" target="_blank" rel="noopener noreferrer">
+              <button className="w-full bg-gradient-to-r from-emerald-500 via-blue-500 to-purple-500 hover:from-emerald-600 hover:via-blue-600 hover:to-purple-600 text-white font-black py-6 px-8 rounded-2xl text-2xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 mb-6 relative overflow-hidden group">
+                <div className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                <span className="relative flex items-center justify-center gap-3">
+                  🔥 QUERO CRESCER AGORA! <ArrowRight className="w-6 h-6" />
+                </span>
+              </button>
+            </a>
 
             <div className="text-center space-y-2">
               <div className="flex items-center justify-center gap-2 text-gray-600">
@@ -584,12 +586,14 @@ export default function HeightEbookLanding() {
               </div>
             </div>
 
-            <button className="w-full bg-gradient-to-r from-red-500 via-pink-500 to-purple-500 hover:from-red-600 hover:via-pink-600 hover:to-purple-600 text-white font-black py-8 px-8 rounded-3xl text-3xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 mb-6 relative overflow-hidden group">
-              <div className="absolute inset-0 bg-gradient-to-r from-white/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-              <span className="relative flex items-center justify-center gap-4">
-                🚀 SIM! QUERO CRESCER AGORA! <ArrowRight className="w-8 h-8" />
-              </span>
-            </button>
+            <a href="https://pay.kiwify.com.br/vtuNXgS" target="_blank" rel="noopener noreferrer">
+              <button className="w-full bg-gradient-to-r from-red-500 via-pink-500 to-purple-500 hover:from-red-600 hover:via-pink-600 hover:to-purple-600 text-white font-black py-8 px-8 rounded-3xl text-3xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 mb-6 relative overflow-hidden group">
+                <div className="absolute inset-0 bg-gradient-to-r from-white/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                <span className="relative flex items-center justify-center gap-4">
+                  🚀 SIM! QUERO CRESCER AGORA! <ArrowRight className="w-8 h-8" />
+                </span>
+              </button>
+            </a>
 
             <div className="space-y-3 text-gray-600">
               <div className="flex items-center justify-center gap-2">
@@ -795,13 +799,15 @@ export default function HeightEbookLanding() {
               </div>
             </div>
 
-            <button className="w-full bg-gradient-to-r from-emerald-500 via-blue-500 to-purple-500 hover:from-emerald-600 hover:via-blue-600 hover:to-purple-600 text-white font-black py-10 px-12 rounded-3xl text-4xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 mb-8 relative overflow-hidden group">
-              <div className="absolute inset-0 bg-gradient-to-r from-white/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-              <span className="relative flex items-center justify-center gap-6">
-                🚀 CRESCER AGORA POR R$ 19,90!{" "}
-                <ArrowRight className="w-10 h-10" />
-              </span>
-            </button>
+            <a href="https://pay.kiwify.com.br/vtuNXgS" target="_blank" rel="noopener noreferrer">
+              <button className="w-full bg-gradient-to-r from-emerald-500 via-blue-500 to-purple-500 hover:from-emerald-600 hover:via-blue-600 hover:to-purple-600 text-white font-black py-10 px-12 rounded-3xl text-4xl shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 mb-8 relative overflow-hidden group">
+                <div className="absolute inset-0 bg-gradient-to-r from-white/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                <span className="relative flex items-center justify-center gap-6">
+                  🚀 CRESCER AGORA POR R$ 19,90!{" "}
+                  <ArrowRight className="w-10 h-10" />
+                </span>
+              </button>
+            </a>
 
             <div className="space-y-4 text-gray-600 text-xl">
               <div className="flex items-center justify-center gap-3">
